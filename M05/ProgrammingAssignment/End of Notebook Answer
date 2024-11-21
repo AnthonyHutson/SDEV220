@@ -1,0 +1,2 @@
+The test results that succeed only show how many tests were ran and how long it took to run those tests, it also states "ok."
+The test results that fail show an "F." for fail and states what the method name, the test module, and the test case. It also shows the details of the failure, for instance, "AssertionError: Fraction(9,10) != 1" and again states how many tests were ran and the time it took to run those tests. It also has a counter at the bottom showing the number of failures that occurred when running the tests.
